@@ -18,6 +18,7 @@ function App() {
           Edit <code>src/App.js</code> and save to reload.
         </p>
         <input type="file" accept="video/*;capture=camcorder" value={fname} onChange={handleChange}/>
+        hiiii
         <p>{fname}</p>
       </header>
     </div>
